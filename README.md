@@ -7,3 +7,7 @@
 - Composable 간 데이터 전달 방법
 
 ### 결과
+
+![Image](https://github.com/user-attachments/assets/b5c33d4b-a74e-4914-9c45-b79bd5560138)
+![Image](https://github.com/user-attachments/assets/c0b90797-a4ce-495a-bbe0-f1cbb2773cdf)
+![Image](https://github.com/user-attachments/assets/e6b7906e-071b-4f26-af5b-42e246a04747)
